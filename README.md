@@ -35,6 +35,6 @@ A simple shopping cart interface built with *Vite, TypeScript, React, shadcn-ui,
 📸 Screenshots
     
 🛍 Cart Page
-![Image](https://github.com/user-attachments/assets/6c53043d-9eef-4334-8ab0-18a831ea791a)
-![Image](https://github.com/user-attachments/assets/31b6b4b8-2873-418b-b811-9043cfaea649)
-![Image](https://github.com/user-attachments/assets/a0fd6108-8554-4a21-b835-2bd34e079be1)
+![Image](https://github.com/user-attachments/assets/2730829f-b3fd-4546-a843-f0b9e889a10d)
+![Image](https://github.com/user-attachments/assets/bb983dfe-7caf-4c04-8d15-d3ee36822261)
+![Image](https://github.com/user-attachments/assets/e91f6971-ad31-4fad-906e-00f7a3b96a86)
